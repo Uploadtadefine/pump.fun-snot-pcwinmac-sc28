@@ -1,4 +1,4 @@
-# 
+# Natif pump.fun sniper bot scripts pour Mac OS | Nouveau pump.fun sniper bot scripts pour PC Windows. Avec écouteurs d'événements et intégration d'API — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
